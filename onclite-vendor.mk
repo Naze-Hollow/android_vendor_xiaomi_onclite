@@ -293,7 +293,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onclite/proprietary/vendor/lib/libC2D2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libC2D2.so \
     vendor/xiaomi/onclite/proprietary/vendor/lib/libCB.so:$(TARGET_COPY_OUT_VENDOR)/lib/libCB.so \
     vendor/xiaomi/onclite/proprietary/vendor/lib/libFaceGrade.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFaceGrade.so \
-    vendor/xiaomi/onclite/proprietary/vendor/lib/libI420colorconvert.so:$(TARGET_COPY_OUT_VENDOR)/lib/libI420colorconvert.so \
     vendor/xiaomi/onclite/proprietary/vendor/lib/libOmxVideoDSMode.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxVideoDSMode.so \
     vendor/xiaomi/onclite/proprietary/vendor/lib/libOpenCL.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCL.so \
     vendor/xiaomi/onclite/proprietary/vendor/lib/libSNPE.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSNPE.so \
@@ -1025,7 +1024,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onclite/proprietary/vendor/lib64/libGPTEE_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGPTEE_vendor.so \
     vendor/xiaomi/onclite/proprietary/vendor/lib64/libGPreqcancel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGPreqcancel.so \
     vendor/xiaomi/onclite/proprietary/vendor/lib64/libGPreqcancel_svc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGPreqcancel_svc.so \
-    vendor/xiaomi/onclite/proprietary/vendor/lib64/libI420colorconvert.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libI420colorconvert.so \
     vendor/xiaomi/onclite/proprietary/vendor/lib64/libOpenCL.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOpenCL.so \
     vendor/xiaomi/onclite/proprietary/vendor/lib64/libQSEEComAPI.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libQSEEComAPI.so \
     vendor/xiaomi/onclite/proprietary/vendor/lib64/libQTEEConnector_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libQTEEConnector_vendor.so \
